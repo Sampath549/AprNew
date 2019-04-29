@@ -1,0 +1,9 @@
+Catenally
+File Upload 
+Video Upload
+Dashboard
+
+WebAPI Authorization based on BearerToken
+API Authorixation depending on Role
+
+eurobarat domain
